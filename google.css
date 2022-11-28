@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+.card {
+    margin: 0 75px;
+}
+
+.group-block {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.block1 {
+    background-color: aqua;
+    padding: 0 21px;
+}
+.block2 {
+    background-color: rgb(0, 177, 177);
+    font-size: small;
+}
+.block3 {
+    background-color: rgb(0, 141, 141);
+    font-size: small;
+}
+.son {
+    font-size: small;
+}
